@@ -4,7 +4,7 @@
 
 ![Fieldwork project cover](./fieldwork-renovation.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/fieldwork-renovation/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/fieldwork-renovation/index.html)
 
 ## Brief
 

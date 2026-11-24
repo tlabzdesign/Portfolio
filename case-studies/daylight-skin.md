@@ -4,7 +4,7 @@
 
 ![Daylight Skin project cover](./daylight-skin.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/daylight-skin/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/daylight-skin/index.html)
 
 ## Brief
 

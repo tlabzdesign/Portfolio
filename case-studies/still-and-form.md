@@ -4,7 +4,7 @@
 
 ![Still & Form project cover](./still-and-form.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/still-and-form/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/still-and-form/index.html)
 
 ## Brief
 

@@ -4,7 +4,7 @@
 
 ![Terrace No. 9 project cover](./terrace-no-nine.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/terrace-no-nine/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/terrace-no-nine/index.html)
 
 ## Brief
 

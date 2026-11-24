@@ -4,7 +4,7 @@
 
 ![Afterglow Coffee project cover](./afterglow-coffee.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/afterglow-coffee/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/afterglow-coffee/index.html)
 
 ## Brief
 

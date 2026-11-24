@@ -4,7 +4,7 @@
 
 ![Signal Assembly project cover](./signal-assembly.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/signal-assembly/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/signal-assembly/index.html)
 
 ## Brief
 

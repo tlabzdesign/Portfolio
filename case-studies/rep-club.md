@@ -4,7 +4,7 @@
 
 ![Rep Club project cover](./rep-club.jpg)
 
-[View the interactive case study](https://mangesh-chougule-design.manco92557768.chatgpt.site/projects/rep-club/)
+[View the interactive case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/rep-club/index.html)
 
 ## Brief
 
