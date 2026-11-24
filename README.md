@@ -2,19 +2,17 @@
 
 **Mangesh Chougule**
 
-Five responsive website concepts and five graphic design concepts. Each case study covers the brief, design decisions, deliverables and intended outcome.
+The live portfolio has 20 concept projects. This repository includes ten selected case studies. Each case study covers the brief, design decisions, deliverables and intended outcome.
 
-- [Open the live interactive portfolio](https://mangesh-chougule-design.manco92557768.chatgpt.site/)
-- [Open the shared HTML portfolio file](https://chatgpt.com/library/share/libfile_a1f65f9b5d6c81918ff4dc9967e04d36?account_id=personal)
+- [View all 20 projects on Wix](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/#work)
 - [Download the standalone HTML](portfolio.html)
-- [Download the complete portfolio PDF](https://mangesh-chougule-design.manco92557768.chatgpt.site/assets/Mangesh_Chougule_Web_and_Graphic_Design_Portfolio.pdf)
 
 ## Web design
 
 | Project | Design scope |
 | --- | --- |
 | [Still & Form](case-studies/still-and-form.md) | Home décor e-commerce |
-| [Relay](case-studies/relay.md) | B2B SaaS landing page |
+| [Relay](case-studies/relay.md) | B2B SaaS landing page · [Live case study](https://headless-pyppzbocdia-designtlabz-140b.wix-site-host.com/projects/relay/index.html) |
 | [Bloom Dental](case-studies/bloom-dental.md) | Dental clinic booking |
 | [Casa Lume](case-studies/casa-lume.md) | Boutique hotel website |
 | [Fieldwork](case-studies/fieldwork-renovation.md) | Home renovation website |
